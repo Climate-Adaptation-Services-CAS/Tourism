@@ -1,0 +1,6 @@
+## Ignore notebook checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+### Python ###
+__pycache__/
