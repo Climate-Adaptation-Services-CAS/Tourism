@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "PAGE-TITLE"
-permalink: /URL-PATH
+title: "CDS Tourism data example"
+permalink: /use-case
 ---
 
 # How to handle CDS Tourism data
