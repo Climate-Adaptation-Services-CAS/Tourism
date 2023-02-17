@@ -1,3 +1,9 @@
+---
+layout: page
+title: "PAGE-TITLE"
+permalink: /URL-PATH
+---
+
 # How to handle CDS Tourism data
 ## An example use-case for the Dutch province Zuid-Holland
 
