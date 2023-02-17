@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "CDS Tourism data example"
 permalink: /use-case
 ---
