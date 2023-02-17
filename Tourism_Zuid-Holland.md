@@ -1,7 +1,7 @@
-layout: page
+<!-- layout: page
 title: "CDS Tourism use-case"
 permalink: /use-case
-
+ -->
 # How to handle CDS Tourism data
 ## An example use-case for the Dutch province Zuid-Holland
 
